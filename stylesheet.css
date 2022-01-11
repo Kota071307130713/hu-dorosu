@@ -27,123 +27,306 @@ li {
 }
 
 .main {
-  padding: 80px ;
   background-color:#f0fff0;
+  padding: 100;
 }
 
 
 
-.copy-container h2 {
-  font-size: 70px;
-}
-
-.copy-container h2 {
-  padding:  32px;
+.copy-container h1{
+  font-size: 80px;
+  padding: 0px 0px 0px 20px;
 }
 
 .copy-container ul {
-  font-size: 23;
+  font-size: 25px;
+  padding: 60px 20px 0px 20px;
+}
+
+.copy-container li{
+  padding: 20px 0px 0px 0px;
 }
 
 .contents {
-  height: 500px;
-  /* margin-topを100pxにしてください */
-  margin-top: 150px;
- 
+   padding: 70px 30px 0px 30px;
+
 }
 
 .contents h1 {
-  font-size: 45;
+  font-size: 45px;
 }
 
-.contents h3 {
+.contents ul{
   font-size: 30px;
+  padding: 30px 0px 50px 20px;
 }
 
-.copy-container h2 {
-  float :left;
+.contents li{
+  padding: 15px 0px 0px 0px;
 }
 
-.logo-2{
-  padding: 0px 500px 0px 500px;
+
+
+.logo-2 h1{
+  font-size: 45px;
 }
 
-.contents
-.logo1 {
+
+.logo1 h1{
   border-bottom: 2px solid #333;
- margin-bottom: 15px;
-}
-
-.logo2 {
-  border-bottom: 2px solid #333;
-  margin-bottom: 10px;
-}
-  
-.logo3 {
-  float: right; margin-top: 30px
-}
-
-.logo4 {
- padding-left: 40px; margin-top: 100px;
-}
-
-.logo5 {
-  border-bottom: 2px solid #333;
-   margin-top: 150px;
-}
-
-.logo6 {
-   float: right; margin-top: 40px;
-}
-
-.logo7 {
- padding-left:; margin-top: 100px;
-}
-
-.logo8{
-  border-bottom: 2px solid #333;
-  margin-top: 400px;
-}
-
-.reshipi {
- 
-}
-
-.kami {
-  padding-top: 30px; font-size: 30px;
-}
-
-.ha {
-  padding-top: 10px;
-}
-
-.re {
- 
+  margin-bottom: 15px;
 }
 
 .a {
   margin-top: 30px; 
   margin-bottom: 50px;
+  padding: 0px 80px 0px 80px;
 }
 
-.k {
-  margin-bottom: 20px;
+
+
+
+
+.logo1 h1{
+  border-bottom: 2px
+  solid  #333;
+  margin-bottom: 15px;
+  font-size: 40px;
 }
 
-.y {
-  margin-bottom: 150px;
+.logo1 ul{
+  padding: 0px 0px 0px 40px;
+  font-size : 25px;
 }
 
-.o {
-  border-bo
+.logo1 li{
+  padding: 15px 0px 0px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.logo2 h1{
+  border-bottom: 2px 
+  solid #333;
+  margin-bottom: 15px;
+  font-size: 40px;
+  padding-top: 50px;
+}
+
+.logo2 ul{
+  padding: 0px 0px 0px 40px;
+  font-size : 25px;
+}
+
+.logo2 li{
+  padding: 15px 0px 0px 0px;
+}
+
+
+
+
+
+.kami h1{
+  padding-top: 30px; 
+  font-size: 30px;
+}
+
+
+
+
+
+
+
+.logo3 {
+  float: right; 
+  margin-top: 55px; 
+  padding-right: 10px;
+}
+
+
+
+
+
+
+
+.re {
+  padding-top: 20px;
+}
+
+.re li{
+  padding: 0px 0px 5px 0px;
+}
+
+
+
+
+
+
+
+.logo4 {
+  padding-left: 160px; margin-top: 60px;
+}
+
+
+
+
+
+
+
+
+.logo5 h1{
+  border-bottom: 2px 
+  solid #333;
   margin-bottom: 15px; 
-  margin-top: 150px;
+  margin-top: 100;
+  font-size: 40px;
 }
+
+.logo5 ul{
+  padding: 0px 0px 0px 30px;
+  font-size : 25px;
+}
+
+.logo5 li{
+  padding: 15px 0px 0px 0px;
+}
+
+
+
+
+
+
+.logo6 {
+   float: right; 
+   margin-top: 70px;
+}
+
+.logo6 h1{
+  font-size: 30px;
+}
+
+
+
+
+
+
+.reshipi {
+  padding-top: 20px;
+}
+
+.reshipi li{
+  padding: 0px 0px 5px 0px;
+}
+
+
+
+
+
+
+
+.logo7 {
+  padding-left: 160px; 
+  margin-top: 80px;
+}
+
+
+
+
+
+.logo8 h1{
+  border-bottom: 2px solid #333;
+  margin-bottom: 15px; margin-top: 150px;
+  font-size: 40px;
+}
+
+.logo8 ul{
+  padding: 0px 0px 0px 40px;
+  font-size : 25px;
+}
+
+.logo8 li{
+  padding: 15px 0px 20px 0px;
+}
+
+
+
+
+
+
+.k h1{
+  padding: 0px 0px 0px 20px;
+}
+
+.k ul{
+  padding: 0px 80px 0px 80px;
+  font-size : 25px;
+}
+
+.k li{
+  padding: 15px 0px 0px 0px;
+}
+
+
+
+
+
+.y h1{
+  padding: 0px 0px 0px 20px;
+}
+
+.y ul{
+  padding: 0px 80px 0px 80px;
+  font-size : 25px;
+}
+
+.y li{
+  padding: 15px 0px 0px 0px;
+}
+
+
+
+
+
+
+.o  h1{
+  border-bottom: 2px 
+  solid #333;
+  padding: 40px 0px 0px 0px;
+  font-size: 40px;
+}
+
+.o ul{
+  padding: 30px 80px 0px 80px;
+  font-size : 25px;
+}
+
+.o li{
+  padding: 15px 0px 0px 0px;
+}
+
+
+
+
+
 
 .miyu{
   float: center; 
   font-size: 25px;
 }
+
+
+
+
+
 
 
 body {
@@ -326,13 +509,17 @@ input:checked ~ #h-menu_black {
   padding: 15px 20px 100px 20px;
 }
 
+.logo{
+  padding: 0px 0px 0px 600px;
+}
+
 .footer {
   background-color: #eee8aa;
   color: #000000;
   height: 100px;
-  margin: 100px 1px;
-  
 }
+
+
 .footer-logo {
   float: left;
   padding:30px;
