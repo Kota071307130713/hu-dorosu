@@ -34,8 +34,8 @@ li {
 
 
 .copy-container h1{
-  font-size: 60px;
-  padding: 0px 0px 0px 20px;
+  font-size: 55px;
+  padding: 0px 0px 0px 10px;
 }
 
 .copy-container ul {
@@ -246,7 +246,7 @@ li {
 
 .logo8 h1{
   border-bottom: 2px solid #333;
-  margin-bottom: 15px; margin-top: 250px;
+  margin-bottom: 15px; margin-top: 300px;
   font-size: 40px;
 }
 
